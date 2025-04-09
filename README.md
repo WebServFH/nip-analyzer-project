@@ -49,7 +49,7 @@ The WebServFH is called NIP for preferability in our research paper.
       –– Experiment Folder
       –– GitHub_Repo_Details
 
-## Again if you have a large input dataset as the as the one in the GitHub_Repo_Details folder,divide it into 1000 0r 2000 per input data, and the should be "repo_url" column in your input, because "repo_url" is the main parameter for the WebServFH.py execution.
+## Recommendation: If you have a large input dataset like the one in the GitHub_Repo_Details folder, divide it into 1000 or 2000 per input data. There should be a "repo_url" column in your input dataset because "repo_url" is the main parameter for the WebServFH.py execution.
     
     
     
