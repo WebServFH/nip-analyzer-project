@@ -1,0 +1,2 @@
+Main-Class: JavaParserAnalyzer
+Class-Path: lib/javaparser-core-3.26.2.jar lib/json-20240303.jar

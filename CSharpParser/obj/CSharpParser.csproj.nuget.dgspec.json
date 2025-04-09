@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/francisobeng/Developer/Web_Services/Web_Services/NEW_AST_WEBSERVFH/CSharpParser/CSharpParser.csproj": {}
+  },
+  "projects": {
+    "/Users/francisobeng/Developer/Web_Services/Web_Services/NEW_AST_WEBSERVFH/CSharpParser/CSharpParser.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/francisobeng/Developer/Web_Services/Web_Services/NEW_AST_WEBSERVFH/CSharpParser/CSharpParser.csproj",
+        "projectName": "CSharpParser",
+        "projectPath": "/Users/francisobeng/Developer/Web_Services/Web_Services/NEW_AST_WEBSERVFH/CSharpParser/CSharpParser.csproj",
+        "packagesPath": "/Users/francisobeng/.nuget/packages/",
+        "outputPath": "/Users/francisobeng/Developer/Web_Services/Web_Services/NEW_AST_WEBSERVFH/CSharpParser/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/francisobeng/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.CodeAnalysis.CSharp": {
+              "target": "Package",
+              "version": "[4.11.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

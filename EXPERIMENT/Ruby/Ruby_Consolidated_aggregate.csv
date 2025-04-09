@@ -1,0 +1,5 @@
+Scenario (Aggregate),# Samples,Average_Response,Error %,Throughput,Average_latency
+Baseline,200,155,0.00%,3.34096,150.31
+Invalid URL,200,141,100.00%,3.34778,140.765
+Network Delay,200,164,0.00%,3.3432,158.94
+Hybrid,200,131,100.00%,3.34482,131.035

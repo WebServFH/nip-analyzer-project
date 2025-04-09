@@ -1,0 +1,3 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Av latency
+HTTP Request,200,124,117,146,163,262,96,435,0.00%,3.33023,123.99
+TOTAL,200,124,117,146,163,262,96,435,0.00%,3.33023,123.99

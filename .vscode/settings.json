@@ -1,0 +1,9 @@
+{
+    "git.ignoreLimitWarning": true,
+    "files.watcherExclude": {
+        "**/target": true
+    },
+    "C_Cpp.errorSquiggles": "enabled",
+    "dotnet.defaultSolution": "disable",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
