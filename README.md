@@ -24,7 +24,7 @@ The WebServFH is called NIP for preferability in our research paper.
 ## Note all the above languages must be installed on the local machine where the user wants to run WebServFH.
 
 
-## Installation
+[Installations/Configurations]
 –– Create a repository on your machine and name it "NEW_AST_WEBSERVFH"
 –– Clone the repo into the created folder on your machine by using "https://github.com/WebServFH/nip-analyzer-project.git"
 –– Launch your IDE, preferably VS Code, and navigate to the project directory "NEW_AST_WEBSERVFH" using the terminal.
@@ -38,7 +38,7 @@ The WebServFH is called NIP for preferability in our research paper.
      ––Path modification in "create_config_file()" should matcth "update_config_file()"
      
      
-–– Using the VS Code terminal run "python WebServFH.py"
+–– Using the VS Code terminal, run "python WebServFH.py"
 
 
 
