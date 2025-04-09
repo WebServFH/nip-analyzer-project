@@ -30,15 +30,16 @@ The WebServFH is called NIP for preferability in our research paper.
 - Launch your IDE, preferably VS Code, and navigate to the project directory "NEW_AST_WEBSERVFH" using the terminal.
 - Install dependencies by running "pip install -r requirements.txt"
 - Modify the config.ini file to set paths and other configurations specific to your environment:
-    [paths]
-     ––input_csv_file_path = path/to/your/input.csv
-     ––output_csv_file_path = path/to/your/output.csv
-     ––clone_dir = path/to/your/clones
-     ––cache_file = path/to/your/cache.pkl
-     ––Path modification in "create_config_file()" should matcth "update_config_file()"
+
+  ##paths
+     - input_csv_file_path = path/to/your/input.csv
+     - output_csv_file_path = path/to/your/output.csv
+     - clone_dir = path/to/your/clones
+     - cache_file = path/to/your/cache.pkl
+     - Path modification in "create_config_file()" should matcth "update_config_file()"
      
      
-–– Using the VS Code terminal, run "python WebServFH.py"
+## Using the VS Code terminal, run "python WebServFH.py"
 
 
 
