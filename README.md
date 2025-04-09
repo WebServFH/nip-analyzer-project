@@ -5,7 +5,8 @@ The WebServFH tool is a Python utility designed to automate and enhance Exceptio
 The WebServFH is called NIP for preferability in our research paper.
 
 ## Features
-
+- Exception Handling Categorization
+- Exception Handling Recommendation
 - Multilanguage support for error handling analysis.
 - Comprehensive system and process logging.
 - Configuration via INI files for easy customization.
