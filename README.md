@@ -24,12 +24,12 @@ The WebServFH is called NIP for preferability in our research paper.
 ## Note all the above languages must be installed on the local machine where the user wants to run WebServFH.
 
 
-[Installations/Configurations]
-–– Create a repository on your machine and name it "NEW_AST_WEBSERVFH"
-–– Clone the repo into the created folder on your machine by using "https://github.com/WebServFH/nip-analyzer-project.git"
-–– Launch your IDE, preferably VS Code, and navigate to the project directory "NEW_AST_WEBSERVFH" using the terminal.
-––  Install dependencies by running "pip install -r requirements.txt"
-–– Modify the config.ini file to set paths and other configurations specific to your environment:
+##Installations/Configurations
+- Create a repository on your machine and name it "NEW_AST_WEBSERVFH"
+- Clone the repo into the created folder on your machine by using "https://github.com/WebServFH/nip-analyzer-project.git"
+- Launch your IDE, preferably VS Code, and navigate to the project directory "NEW_AST_WEBSERVFH" using the terminal.
+- Install dependencies by running "pip install -r requirements.txt"
+- Modify the config.ini file to set paths and other configurations specific to your environment:
     [paths]
      ––input_csv_file_path = path/to/your/input.csv
      ––output_csv_file_path = path/to/your/output.csv
