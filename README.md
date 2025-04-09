@@ -1,4 +1,4 @@
-# WebServFH
+# WebServFH aka NIP (Nobody's Perfect)
 
 The WebServFH tool is a Python utility designed to automate and enhance Exception Handling analysis in Web Service Applications from GitHub across nine (9) programming languages.
 
@@ -43,7 +43,7 @@ The WebServFH is called NIP for preferability in our research paper.
 
 
 
-## Note: The WebServFH.py works with all files and folders in this project the following folders which it not depend on them.
+## Note: The WebServFH.py works with all files and folders in this project; however, it  does not depend on the folders listed below. 
       –– Exception_Handling_Analysis_Output Folder
       –– Experiment Folder
       –– GitHub_Repo_Details
