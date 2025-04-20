@@ -1,5 +1,8 @@
 # WebServFH aka NIP (Nobody's Perfect)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WebServFH&repo=nip-analyzer-project&layout=compact)
+
+
 The WebServFH tool is a Python utility designed to automate and enhance Exception Handling analysis in Web Service Applications from GitHub across nine (9) programming languages.
 
 The WebServFH is called NIP for preferability in our research paper.
